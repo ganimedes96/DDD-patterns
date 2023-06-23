@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"ddd-modelagem-tatica-e-patterns","dependencies":{"@types/uuid":{"version":"9.0.2"},"reflect-metadata":{"version":"0.1.13"},"sequelize-typescript":{"version":"2.1.5"},"sequelize":{"version":"6.32.0"},"sqlite3":{"version":"5.1.6"},"uuid":{"version":"9.0.0"}}}
